@@ -1,6 +1,6 @@
 # SudokuSolver
 ## Solves a Sudoku puzzle
-Simply run the program, and then input the (unsolved) sudoku puzzle as such (line-by-line):
+Simply run the program, and then input the (unsolved) sudoku puzzle as such (line-by-line, newline between lines):
   - Enter the number if it is known,
   - Put an underscore ('_') if the value is not given. These are the values the program will compute to finish the puzzle,
   - Separate each character in a line with one (1) space.
